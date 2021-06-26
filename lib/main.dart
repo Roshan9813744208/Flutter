@@ -14,7 +14,7 @@ class myApp extends StatelessWidget {
           appBar: new AppBar(
             title: new Text("Homepage"),
           ),
-          body: new Center()(
+          body: new Center(
             child: new Text("Hello world"),
           )),
     );
