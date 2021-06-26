@@ -10,7 +10,7 @@ class myApp extends StatelessWidget {
     return new MaterialApp(
       title: "My App",
       home: new Scaffold(
-          appbar: new AppBar(
+          appBar: new AppBar(
             title: new Text("Homepage"),
           ),
           body: new Container(
