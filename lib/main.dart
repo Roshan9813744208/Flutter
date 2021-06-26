@@ -12,7 +12,7 @@ class myApp extends StatelessWidget {
       title: "My App",
       home: new Scaffold(
           appBar: new AppBar(
-            title: new Text("Homepage"),
+            title: new Text("HomePage"),
           ),
           body: new Center(
             child: new Text("Hello world"),
